@@ -8,7 +8,7 @@ public class Main {
 
         JOptionPane.showMessageDialog(null, "손가락 운동 시작");
 
-        for (int i = 1000; i > 0; i--) {
+        for (int i = 1; i > 0; i--) {
 
             if (i == 1000) {
                 JOptionPane.showMessageDialog(null, "중간에 메시지도 있으니까 확인좀 잘 해봐. 나가는데 도움이 될 수 있어");
@@ -59,6 +59,31 @@ public class Main {
         JOptionPane.showMessageDialog(null, "짜증나도..");
         JOptionPane.showMessageDialog(null, "이건 삭제하지마");
         JOptionPane.showMessageDialog(null, "THE END");
+        JOptionPane.showMessageDialog(null, ".. 속았지?");
+        JOptionPane.showMessageDialog(null, "앤딩 크래딧도 있다구");
+        JOptionPane.showMessageDialog(null, "개발자:boyboy0710");
+        JOptionPane.showMessageDialog(null, "제작 소요 시간: 5분");
+        JOptionPane.showMessageDialog(null, "삭제하는데 걸리는 시간: 1분");
+        JOptionPane.showMessageDialog(null, "지금 시간: 7:40 pm");
+        JOptionPane.showMessageDialog(null, "앤딩 크래딧 만드는 시간: 3분");
+        JOptionPane.showMessageDialog(null, "개발자여 영원하라");
+        JOptionPane.showMessageDialog(null, "T");
+        JOptionPane.showMessageDialog(null, "H");
+        JOptionPane.showMessageDialog(null, "E");
+        JOptionPane.showMessageDialog(null, "E");
+        JOptionPane.showMessageDialog(null, "N");
+        JOptionPane.showMessageDialog(null, "D");
+        JOptionPane.showMessageDialog(null, "끄읕");
+        JOptionPane.showMessageDialog(null, "이 아니라");
+        JOptionPane.showMessageDialog(null, "하나 더 남았어");
+        JOptionPane.showMessageDialog(null, "재밌었다면...");
+        JOptionPane.showMessageDialog(null, "공유좀 해줘");
+        JOptionPane.showMessageDialog(null, "아 참.");
+        JOptionPane.showMessageDialog(null, "재밌어 할 사람이 있나 모르겠네");
+        JOptionPane.showMessageDialog(null, "여튼..");
+        JOptionPane.showMessageDialog(null, "다음번에도 해봐");
+        JOptionPane.showMessageDialog(null, "END");
+        JOptionPane.showMessageDialog(null, "진짜 끝이야");
     }
 
 }
