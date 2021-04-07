@@ -8,7 +8,7 @@ public class Main {
 
         JOptionPane.showMessageDialog(null, "손가락 운동 시작");
 
-        for (int i = 1; i > 0; i--) {
+        for (int i = 1000; i > 0; i--) {
 
             if (i == 1000) {
                 JOptionPane.showMessageDialog(null, "중간에 메시지도 있으니까 확인좀 잘 해봐. 나가는데 도움이 될 수 있어");
